@@ -1,6 +1,6 @@
 # namer_app
 
-A new Flutter project.
+This project is part of the learning of Flutter
 
 ## Getting Started
 
